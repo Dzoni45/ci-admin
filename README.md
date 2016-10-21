@@ -1,2 +1,2 @@
 # ci-admin
-Test repo.
+Just playing with git.
